@@ -14,7 +14,7 @@ Once the project is "ready", it shall be released on npm for consumption.
 This project uses nodejs, so you should install `nodejs` as the package manager on your machine. See [installation guide](https://nodejs.org/en/).
 
 ```sh
-git clone https://github.com/umbraco/Umbraco.UI.git
+git clone https://github.com/umbraco/Umbraco.UI.RFCDemo.git
 npm install
 ```
 
